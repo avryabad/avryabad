@@ -1,13 +1,12 @@
-## Hi there I'm Avery👋
+## Hi there, I'm Avery 👋
 
-### About Me 
+### About Me
 
-I am currently a student @ Tennessee Tech University that is expected to graduate within the fall. I fell in love with computer science during my time in school and I love to program and problem solve! In the Summer of 2027 I will be joining Vertech Industrial as a Associate Developer. 
+I'm a Computer Science student at Tennessee Tech University (Data Science & AI concentration), graduating in Spring 2027. I fell in love with computer science during my time in school, and I love to program and solve problems! In Summer 2027, I'll be joining **Vertech Industrial** as an Associate Developer.
 
-Outside of school I love to play volleyball and explore the outdoors. I also love playing video games and spending quality time with friends
+Outside of school, I love playing volleyball, exploring the outdoors, playing video games, and spending quality time with friends.
 
-Despite being behind a computer screen for work and school I have a deep passion the for exploring the world and it's beauties. I've travelled to countries like the UK, France, Japan, Philippines, South Korea, and Mexico. 
-
+Even though I spend a lot of time behind a screen for work and school, I have a deep passion for exploring the world and its beauty. I've traveled to the UK, France, Japan, the Philippines, South Korea, and Mexico. 🌏
 
 ## 🛠️ Skills
 
@@ -35,20 +34,6 @@ Despite being behind a computer screen for work and school I have a deep passion
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
+## 📫 Connect With Me
 
-
-
-<!--
-**avryabad/avryabad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avery-abad/)
