@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there I'm Avery👋
+
+I am currently a student @ Tennessee Tech University that is expected to graduate within the fall. I fell in love with computer science during my time in school and I love to program and problem solve! In the Summer of 2027 I will be joining Vertech Industrial as a Associate Developer. 
+
 
 <!--
 **avryabad/avryabad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
